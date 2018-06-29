@@ -1,0 +1,30 @@
+{
+  "name": "learning-jest",
+  "version": "1.0.0",
+  "description": "Just learning JEST",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^23.2.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landaida/learning-jest.git"
+  },
+  "keywords": [
+    "nodejs",
+    "jest"
+  ],
+  "author": "landaida.1@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/landaida/learning-jest/issues"
+  },
+  "homepage": "https://github.com/landaida/learning-jest#readme"
+}
